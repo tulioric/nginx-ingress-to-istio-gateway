@@ -1,7 +1,3 @@
-Aqui está um **README.md completo**, pronto para colocar no GitHub, documentando toda a solução (geração automática de Gateway API + Istio + EnvoyFilter + validação + conversão de snippets NGINX → Lua):
-
----
-
 # 🚀 Migração Automática de NGINX Ingress → Gateway API + Istio
 
 Este repositório contém um conjunto completo de scripts para:
